@@ -1,0 +1,24 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh1/main/clh.json",
+      "name": "自建clh1线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/huangce/main/zjhaitun.json",
+      "name": "自建海豚线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
+      "name": "index18线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/hce/main/hce1.json",
+      "name": "自建蔬菜pro线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/cd/main/bhj.json",
+      "name": "自建cd线路"
+    }
+  ]
+}
